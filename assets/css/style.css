@@ -226,7 +226,7 @@ body { background: var(--smoky-black); }
 /* Modal content */
 .modal-content {
   position: relative;
-  max-width: 80%;  /* Set to 80% of the viewport width */
+  max-width: 65%;  /* Set to 80% of the viewport width */
   max-height: 100%; /* Set to 80% of the viewport height */
   width: auto;     /* Allow the width to be flexible */
   height: auto;    /* Allow the height to be flexible */
@@ -1756,6 +1756,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   .filter-item button:hover { color: var(--light-gray-70); }
 
   .filter-item button.active { color: var(--orange-yellow-crayola); }
+
 
   /* portfolio and blog grid */
 
